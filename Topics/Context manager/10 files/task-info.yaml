@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# write your code here'
+  learner_created: false
+- name: file1.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8710#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 30 Jul 2022 19:22:29 UTC
+record: -1

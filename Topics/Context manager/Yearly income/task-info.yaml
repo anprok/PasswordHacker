@@ -1,0 +1,25 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# write your code here'
+  learner_created: false
+- name: salary.txt
+  visible: true
+  learner_created: true
+- name: salary_year.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8707#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Runtime error
+
+    Error:
+      File "jailed_code", line 9
+        for line in in_file:
+          ^
+    IndentationError: expected an indented block
+  time: Sat, 30 Jul 2022 19:30:50 UTC
+record: -1
